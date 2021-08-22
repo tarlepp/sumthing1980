@@ -1,0 +1,5 @@
+{
+    "require": {
+        "bopoda/robots-txt-parser": "^2.4"
+    }
+}
