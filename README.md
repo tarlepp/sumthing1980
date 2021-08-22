@@ -10,6 +10,11 @@ Some asked this on IRC
 02:11 < sumthing1980> do they have to be same name as the class and things like that
 ```
 
+## Requirements
+
+* [PHP](https://www.php.net/)
+* [Composer](https://getcomposer.org/doc/00-intro.mdComposer)
+
 ## Installation and checkout
 
 Just clone this repository and after that do;
@@ -18,3 +23,7 @@ Just clone this repository and after that do;
 * php index.php
 
 Profit
+
+## License
+
+[The MIT License (MIT)](LICENSE)
